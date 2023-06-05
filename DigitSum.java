@@ -19,8 +19,8 @@ public class DigitSum{
         
         while (number > 0){
             int digit = number % 10;
-            sum += digit;
-            number /= 10;
+            sum = sum+digit;
+            number = number/10;
         }
         
         if (sum > 9) {
