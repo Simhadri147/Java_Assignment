@@ -10,7 +10,7 @@
 ##########java program that converts a given amount in rupees into the equivalent number of Indian currency notes.
 ###########6.Simple interest and compund interest program in java 
 ############java program that calculates the interest of a certain amount using simple interest and compund interest.
-#############7.Random number guess program 
+#############7.Random number guess program.
 ##############java program that identifies the user guess of a number.
 ###############8.Registration validation program 
 ################java program that validates the user password and e-mail.
