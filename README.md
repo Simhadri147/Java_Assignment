@@ -31,7 +31,7 @@
 
 7.Random number guess program :
 
-   java program that identifies the user guess of a number.
+   java program that identifies the user guess of a number .
 
 
 8.Registration validation program :
